@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A70FF7&size=24&lines=Hello+there++%F0%9F%91%8B%2C;+I'm+Vishnu+Kulkarni)](https://git.io/typing-svg)
 
 
-I'm a self-taught passionate Web developer  <img height="18" src="./Assets/dragon_1f409-removebg-preview.png">
+I'm a  passionate Web developer  <img height="18" src="./Assets/dragon_1f409-removebg-preview.png">
 ## ✵ ABOUT ME
 I'm a Full Stack Developer and Tech Enthusiast who enjoys learning new technologies and frameworks, as well as creating projects and contributing to open source projects.
 - 🔭 I’m currently working on Mern-Ecommerce (finishing up)
