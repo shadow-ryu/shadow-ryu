@@ -5,9 +5,9 @@ I'm a  passionate Web developer  <img height="18" src="./Assets/dragon_1f409-rem
 ## ✵ ABOUT ME
 I'm a Full Stack Developer and Tech Enthusiast who enjoys learning new technologies and frameworks, as well as creating projects and contributing to open source projects.
 - 🔭 I’m currently working on Mern-Ecommerce (finishing up)
-- 🌱 I’m currently exploring TypeScript
+- 📚 I’m currently exploring TypeScript
 - 👯 I’m looking to collaborate on Open Source Projects
-- 📚 I’m currently learning backend part
+
 
 - 📫 How to reach me: ...
 ## ✵ Languages and Tools:
