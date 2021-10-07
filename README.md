@@ -8,8 +8,8 @@ I'm a Full Stack Developer and Tech Enthusiast who enjoys learning new technolog
 - 📚 I’m currently exploring TypeScript
 - 👯 I’m looking to collaborate on Open Source Projects
 
-
-- 📫 How to reach me: ...
+<!-- 
+- 📫 How to reach me: ... -->
 ## ✵ Languages and Tools:
 
 
