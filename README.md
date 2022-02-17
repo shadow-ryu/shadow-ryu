@@ -5,8 +5,9 @@ I'm a  passionate Web developer  <img height="18" src="./Assets/dragon_1f409-rem
 ## ✵ ABOUT ME
 I'm a Full Stack Developer and Tech Enthusiast who enjoys learning new technologies and frameworks, as well as creating projects and contributing to open source projects.
 <!-- - 🔭 I’m currently working on Mern-Ecommerce (finishing up) -->
-- 📚 I’m currently exploring TypeScript
+- 📚 I’m currently exploring MERN Stack & TypeScript
 -    I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me: vishnukulkarni4302@gmail.com
 
 <!-- 
 - 📫 How to reach me: ... -->
@@ -22,13 +23,11 @@ I'm a Full Stack Developer and Tech Enthusiast who enjoys learning new technolog
 <!--
 **Fierce-Black-Dragon/Fierce-Black-Dragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ✵ Github Stats
-![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fierce-Black-Dragon&show_icons=true&theme=tokyonight)
+
 
 
 
