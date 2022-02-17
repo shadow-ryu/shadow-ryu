@@ -31,5 +31,4 @@ I'm a Full Stack Developer and Tech Enthusiast who enjoys learning new technolog
 ![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fierce-Black-Dragon&show_icons=true&theme=tokyonight)
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fierce-Black-Dragon&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
