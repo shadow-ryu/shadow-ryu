@@ -27,6 +27,13 @@ I'm a Full Stack Developer and Tech Enthusiast who enjoys learning new technolog
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Github Stats
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=Fierce-Black-Dragon&count_private=true&show_icons=true&include_all_commits=true&theme=react)         | <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Fierce-Black-Dragon&theme=react" />              |
+| --------------------- | ------------------------- |
+
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Fierce-Black-Dragon&theme=react-dark" />
+
+
 
 
 
