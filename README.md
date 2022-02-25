@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A70FF7&size=24&lines=Hello+there++%F0%9F%91%8B%2C;+I'm+Vishnu+Kulkarni)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A70FF7&size=24&lines=Hello+there++%F0%9F%91%8B%2C;+I'm+Vishnu+Ajit+Kulkarni)](https://git.io/typing-svg)
 
 
 I'm a  passionate Web developer  <img height="18" src="./Assets/dragon_1f409-removebg-preview.png">
