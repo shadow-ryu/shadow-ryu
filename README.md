@@ -22,7 +22,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fierce-black-dragon&label=Profile%20views&color=0e75b6&style=flat" alt="fierce-black-dragon" /> </p>
 
 
-- 🔭 I’m currently working on [ecommerce backend](https://github.com/Fierce-Black-Dragon/Ecommerce-API)
+- 🔭 I’m currently working on New Project Idea
 
 - 🌱 I’m currently learning **typescript**
 
@@ -31,6 +31,8 @@
 - 💬 Ask me about **reactJs, node,html,css,js**
 
 - 📫 How to reach me **vishnukulkarni4302@gmail.com**
+- 
+- My Website: https://my-portfolio-bay-gamma.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
